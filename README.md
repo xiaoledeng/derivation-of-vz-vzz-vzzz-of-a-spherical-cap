@@ -1,5 +1,5 @@
 # derivation-of-vz-vzz-vzzz-of-a-spherical-cap
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5591046.svg)](https://zenodo.org/record/5591046)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6451017.svg)](https://zenodo.org/record/6451017)
 
 Derivation of Vz-Vzz-Vzzz of a spherical cap
